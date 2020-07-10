@@ -1,0 +1,19 @@
+Git Clone => git clone (repository path)
+
+Check Repository Status => git status
+
+
+Add all changes on stagged area => git add .  (same like + in vscode)
+
+
+Commit all changes => git commit -m "massege"
+
+
+Add and Commit togather => git commit -a -m "massege"
+
+
+Remove all changes (Local) and (Stagged Area) =>
+git stash
+
+git reset --hard
+
